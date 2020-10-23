@@ -15,5 +15,3 @@ If you are a user, please see the [Online Documentation](http://www.rubydoc.info
 
 If you are a developer, see the [Developer Information](docs/DeveloperInformation.md) page.
 
-
-
