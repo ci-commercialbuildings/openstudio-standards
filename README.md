@@ -4,6 +4,7 @@
 # Code Build Test 3
 # Code Build Test 4
 # Code Build Test 5
+# Code Build Test 6
 
 This library (a Ruby Gem) is an extension of the [OpenStudio SDK](https://www.openstudio.net/) with three main use-cases:
 
