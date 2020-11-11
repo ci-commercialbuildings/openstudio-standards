@@ -10,6 +10,7 @@
 # Code Build Test 9 - Testing reporting features
 # Code Build Test 10 - Testing reporting features
 # Code Build Test 11 - Testing reporting features
+# Code Build Test 12 - Testing reporting features
 
 This library (a Ruby Gem) is an extension of the [OpenStudio SDK](https://www.openstudio.net/) with three main use-cases:
 
