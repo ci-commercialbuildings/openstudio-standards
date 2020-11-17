@@ -1,4 +1,17 @@
 # OpenStudio-Standards
+# Code Build Test 1
+# Code Build Test 2
+# Code Build Test 3
+# Code Build Test 4
+# Code Build Test 5
+# Code Build Test 6
+# Code Build Test 7
+# Code Build Test 8 - Testing reporting features
+# Code Build Test 9 - Testing reporting features
+# Code Build Test 10 - Testing reporting features
+# Code Build Test 11 - Testing reporting features
+# Code Build Test 12 - Testing reporting features
+# Last Test Code Build Test 13 - Testing reporting features
 
 This library (a Ruby Gem) is an extension of the [OpenStudio SDK](https://www.openstudio.net/) with three main use-cases:
 
@@ -14,6 +27,4 @@ If you are a user, please see the [Online Documentation](http://www.rubydoc.info
 ## Developer Information
 
 If you are a developer, see the [Developer Information](docs/DeveloperInformation.md) page.
-
-
 
